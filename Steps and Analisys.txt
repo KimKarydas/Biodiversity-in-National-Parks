@@ -1,14 +1,14 @@
 STEP1 Calling and intro to data 
 
 - Call All the libs at the top
-- Call the files
-- Check the head
-- Look at any missing vals
+- **Call the files  
+- **Check the head
+- **Look at any missing vals
 - 
 
 
 STEP2 Cleaning the Data
-- Check and look for any missing values (Nan)
+- **Check and look for any missing values (Nan)
 -- If missing data what method use to replace the data, without corrupting the results
 - Check for the quality of data ()
 - Look at the description given to each data (dtype)
